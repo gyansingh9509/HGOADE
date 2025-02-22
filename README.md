@@ -64,8 +64,7 @@ Second author = {Gyan Singh (gyansingh6047@gmail.com)},
 }
 ```
 
-## License
-This project is licensed under the **MIT License**.
+
 
 ## Contact
 For queries or collaborations, please contact **[gyansingh6047@gmail.com]**
