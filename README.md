@@ -57,7 +57,7 @@ HGOADE can be applied to various **real-world optimization problems**, including
 If you use HGOADE in your research, please cite:
 ```
 @article{yourcitation,
-  author = {Gyan Singh et al.},
+Second author = {Gyan Singh (gyansingh6047@gmail.com)},
   title = {Hybrid Gazelle Optimization Algorithm with Differential Evolution},
   journal = {SCI Conference Paper},
   year = {2024}
@@ -68,4 +68,4 @@ If you use HGOADE in your research, please cite:
 This project is licensed under the **MIT License**.
 
 ## Contact
-For queries or collaborations, please contact **[your email]** or visit **[your website]**.
+For queries or collaborations, please contact **[gyansingh6047@gmail.com]**
